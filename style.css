@@ -1,0 +1,216 @@
+h1 {
+
+    background-color;
+    font-style:normal; color:black;
+    animation: slidedown 5s ;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Josefin Sans', sans-serif;
+}
+ img {
+width: 60px;
+height: 60px;
+ margin-top: 0%; 
+ float: right;
+position: relative;
+top:-60px ;
+
+}
+ @keyframes slidedown{
+0%{
+transform: translateY(200px);
+opacity: 0;
+}
+50%{
+transform: translateY(0);
+opacity: 3;
+}
+100%{
+    transform: translateY(-200px);
+    opacity: 0;
+ }
+ }
+ .box{
+     box-shadow: 0 0 20px 2px rgba(0, 0, 0, 1);
+     margin: 0px;
+     margin-top: 65px;
+     }
+     #haut{
+background-color: black;
+font-size:xx-large;
+height: 90px;
+width: 950px;
+color: white;
+padding: 23px;
+margin-right: 38px;
+}
+#p1{
+font-style:oblique;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+header{
+border: 5px solid ; 
+background-image: url(./images/P90384996_highResfr.jpg);
+color: cornsilk;
+
+}
+#p2{
+
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Overpass', sans-serif;
+
+
+
+}
+#p3{
+
+    font-style:italic;
+}
+#logo{
+margin-top: -63px;
+
+}
+nav{
+    background
+    flex-direction: column;
+text-decoration: none;
+flex-direction: column;
+
+}
+nav a{
+float: left;
+padding: 10px;
+
+text-align: center;
+font-size: 20px;
+text-decoration: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+
+}
+ul{
+    margin-left:-45px ;
+    margin-bottom: 30px;
+}
+#ul2{
+
+    float: right;
+}
+#img3{
+    height: 2000px;
+    width: 2000px;
+}
+
+#p3{
+
+    font-style: oblique;
+}
+#h4{
+
+    color: gray;
+}
+
+#p4{
+    margin-top: 168px;
+   
+}
+ 
+ 
+
+#h6{
+color: white;
+font-size:xx-large;
+}
+
+#b2{
+    background-image: url(./images/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-position: 270px;
+    background-position-y: 300px;
+}
+#b3{
+
+    background-color: black;
+}
+table,th,td{
+
+    border: 1px solid white;
+    border-collapse: collapse;
+
+}
+#b4{
+
+    background-image: url(./images/1041111.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+#haut2{
+background-color: black;
+
+}
+ #img4{
+    margin-top: 600px;
+    width: 890px;
+    float: left;
+    height: 393px;
+
+ }
+#p5{
+font-style: italic;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+.video {
+columns: 10px;
+
+}
+#V3{
+    margin-left: 320px;
+}
+#H6{
+
+text-align: center;
+font-size: larger;
+
+font-family: fantasy;
+
+
+}
+.AP{
+    background-image: url(./images/high-resolution-earth-wilderness-air-mother-nature-landscapes-view-display-2048x1245-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#IMG11{
+
+    float: right;
+    padding-right: 80px;
+    margin-top: 45px;
+    width: 500px;
+    height: 300px;
+    
+}
+.Recherche{
+
+
+    background-image: url(./images/Toyota-Yaris-HSD-Hybrid-3.jpg);
+    background-repeat: no-repeat;
+}
+#R{
+    margin-left: 1029px;
+   margin-top: -470px;
+}
+#audio{
+
+    margin-left: px;
+
+
+}
